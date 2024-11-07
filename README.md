@@ -8,7 +8,7 @@ This is the official implementation of the WSDM 2025 paper:
 
 
 ## Datasets Downloading and Preprocessing
-All the datasets can be downloaded [here](https://zenodo.org/records/7213796#.Y1cO6y8r30o). You can put them into `processed` folder, then run the following command to preprocess the datasets: 
+All the datasets can be downloaded [here](https://zenodo.org/records/7213796#.Y1cO6y8r30o). Put datasets into `processed` folder, then run the following command to preprocess the datasets: 
 ```
 python process.py 
 ```
