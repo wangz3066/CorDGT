@@ -36,7 +36,7 @@ python -u learn_edge.py -d uci --bs 100 --uniform --n_degree 32 1 --n_head 6 --a
 Part the code utilized in this project are based on [TGAT](https://github.com/StatsDLMathsRecomSys/Inductive-representation-learning-on-temporal-graphs). We are grateful for authors' contributions. 
 
 ## Citations
-If you find the paper useful in your research, please consider citing:
+If you find this paper useful in your research, please consider citing:
 ```
 @inproceedings{wang2024dynamic,
   title={Dynamic Graph Transformer with Correlated Spatial-Temporal Positional Encoding},
